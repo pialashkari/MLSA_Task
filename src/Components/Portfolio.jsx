@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/cat2.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "hehe";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Good UI",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Learn From What Leading Companies A/B Test Receive the latest discovered UI patterns and leaked experiments from companies such as Amazon, Netflix, Airbnb, Etsy, Google, and Booking.com, etc. We're obsessed with learning about what works and what fails.",
+    url: "https://goodui.org/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Awwwards",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "How to apply User Experience (UX) and user interface (UI) tools and principles to your website designs, UI design, design systems, animation systems, workflows, design thinking, information architecture, prototyping, wireframing, research, user testing, usability, user-centered design, Figma, Webflow, Adobe XD, Sketch, Principle, After Effects, InVision and more.",
+    url: "https://www.awwwards.com/websites/ui-design/",
   },
   {
-    title: "My Resume Site",
+    title: "Themeisle",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "We’re crafting WordPress themes with love and attention so that you can fine tune your site in a jiffy. Our themes are especially created to setup and launch a website fast, with attention to design and all the functionality needed.",
+    url: "https://themeisle.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "UI Guideline",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "UI Components Handbook: The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems.",
+    url: "https://www.uiguideline.com/components",
   },
 ];
 
